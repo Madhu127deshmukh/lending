@@ -1,0 +1,6 @@
+first code
+cd "\Program Files\Common Files\microsoft shared\ClickToRun"
+
+
+Second code
+OfficeC2rclient.exe /update user updatetoversion=16.0.13801.20266
